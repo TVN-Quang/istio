@@ -1,0 +1,9 @@
+dependencies:
+- name: base
+  repository: file://../charts/base
+  version: 1.0.0
+- name: istiod
+  repository: file://../charts/istio-control/istio-discovery
+  version: 1.0.0
+digest: sha256:b351533d9e585a0765074989a7d26c399867635785fad03ecaab63bced667eba
+generated: "2025-01-16T01:57:55.612413566Z"
