@@ -15,3 +15,6 @@ dependencies:
     - name: istiod
       version: v1.0.0
       repository: "file://../charts/istio-control/istio-discovery"
+    - name: istio-ingress
+      version: v1.0.0
+      repository: "file://../charts/gateways/istio-ingress"
